@@ -1,0 +1,21 @@
+{
+  "name": "tinyurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tinyurl-bulk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "axios": "^0.18.0",
+    "circular-json": "^0.5.5",
+    "exceljs": "^1.6.2",
+    "form-data": "^2.3.2",
+    "node-xlsx": "^0.12.1",
+    "socket.io-file": "^2.0.2",
+    "xlsx": "^0.14.0"
+  }
+}
